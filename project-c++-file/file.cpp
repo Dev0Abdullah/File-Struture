@@ -176,7 +176,7 @@ void countFileWords() {
     cout << "The file \"" << fileName << "\" contains " << wordCount << " words." << endl;
     file.close();
 }
-// Wrie Int Main
+// Wrie Int Main Function
 int main() {
     int choice;
 
