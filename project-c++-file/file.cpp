@@ -5,7 +5,7 @@
 
 using namespace std;
 
-// Check if a file exists
+// Check if a file exist
 void checkFile() {
     string fileName;
     cout << "Enter the file name to check: ";
